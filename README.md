@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## BS Information Technology Student
+## Beginner
 <!--
 **jacobparngapala/jacobparngapala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
